@@ -3,5 +3,5 @@
     --primary-g: 215;
     --primary-b: 182;
     --primary-accent-color: rgba(var(--primary-r), var(--primary-g), var(--primary-b), 1.0);
-    --secondary-accent-color: #101010;
+    --secondary-accent-color: #93D7B620;
 }
